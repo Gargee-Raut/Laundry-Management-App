@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "904583873300",
+    "project_id": "laundry-app-e1e05",
+    "storage_bucket": "laundry-app-e1e05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904583873300:android:bd48d299f6aea863253801",
+        "android_client_info": {
+          "package_name": "com.example.foodex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904583873300-63gtqk1me4btocgdn6l2oaak3um6vuvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC258RDp_AXKVoNTeKXqYG5wTQpjrGtzP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904583873300-63gtqk1me4btocgdn6l2oaak3um6vuvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
